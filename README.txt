@@ -38,7 +38,5 @@ This repository contains a Jupyter notebook implementing and comparing Recurrent
 Both models are evaluated on test data with performance metrics and visualizations comparing their predictions and training behavior.
 
 ## Author
-[Your Name]
+B sai chatura
 
-## License
-[Add license if applicable]
